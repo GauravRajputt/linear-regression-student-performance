@@ -8,7 +8,7 @@ This project analyzes student behavior and predicts **exam scores** using **Line
 # 📊 Exploratory Data Analysis (EDA)
 
 ## 1️⃣ Gaming Hours vs Study Hours
-<img src="images/gaming_vs_study.png" width="500"/>
+<img src="images/gaming vs study.png"/>
 
 👉 Insight:
 - Negative relationship observed  
