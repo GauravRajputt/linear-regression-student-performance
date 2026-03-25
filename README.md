@@ -121,5 +121,3 @@ This project demonstrates how **Linear Regression** can be used to:
 - Predict exam outcomes effectively  
 
 ---
-
-# 📁 Project Structure
