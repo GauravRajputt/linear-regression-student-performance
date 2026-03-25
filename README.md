@@ -28,7 +28,7 @@ This project analyzes student behavior and predicts **exam scores** using **Line
 ---
 
 ## 3️⃣ Distribution of Exam Scores
-<img src="images/exam_score.png" width="500"/>
+<img src="images/exam score.png/>
 
 👉 Insight:
 - Data follows approximately normal distribution  
