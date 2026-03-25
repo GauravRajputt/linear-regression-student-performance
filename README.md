@@ -61,9 +61,14 @@ This project analyzes student behavior and predicts **exam scores** using **Line
 <img src="images/feature_importance.png" width="500"/>
 
 👉 Insight:
-- study_hours → positive impact  
-- gaming_hours → negative impact  
-- Shows which features influence exam scores the most  
+
+productivity_score and focus_index show strong influence
+study_hours → positive impact
+gaming_hours → negative impact
+
+👉 Note:
+
+Some features like productivity_score have higher coefficients because they are more directly related to exam performance, while study_hours influences performance indirectly.
 
 ---
 
@@ -86,21 +91,24 @@ This project analyzes student behavior and predicts **exam scores** using **Line
 
 👉 Holding other factors constant:
 
-- Increase in **study_hours** → increases exam score  
-- Increase in **gaming_hours** → decreases exam score  
+Increase in study_hours → increases exam score
+Increase in gaming_hours → decreases exam score
 
 👉 Interpretation:
-- Study habits directly improve performance  
-- Gaming negatively impacts academic results  
+
+Study habits improve performance
+Gaming negatively impacts academic results
+Productivity and focus act as strong direct predictors
 
 ---
 
 # 📌 Key Insights
 
-✅ Study hours are the strongest positive factor  
-✅ Gaming hours negatively affect performance  
-✅ Model provides accurate predictions  
-✅ Student behavior plays a major role in results  
+✅ Study hours positively impact performance
+✅ Gaming hours negatively affect performance
+✅ Productivity and focus are strong predictors
+✅ Model provides accurate predictions
+✅ Student behavior plays a major role in results
 
 ---
 
