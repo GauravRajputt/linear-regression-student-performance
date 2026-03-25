@@ -18,7 +18,7 @@ This project analyzes student behavior and predicts **exam scores** using **Line
 ---
 
 ## 2️⃣ Study Hours vs Exam Score
-<img src="images/study_vs_exam.png" width="500"/>
+<img src="images/study vs exam.png"/>
 
 👉 Insight:
 - Strong positive correlation  
